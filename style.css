@@ -298,3 +298,12 @@ span{
     background-color: var(--bg-color);
     width: 50px;
 }
+
+.img1 {
+    height: 500px;
+    width: 500px;
+}
+
+.skills {
+    background-color: #161616;
+}
